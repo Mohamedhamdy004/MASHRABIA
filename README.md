@@ -1,8 +1,8 @@
 # Team Roles
 
-**Mohamed Hamdy:** UX + UI (4 pages dark mode + All English version) + Case Study  
-**Mariam Abdullah:** UI (8 pages + 4 Dark mode + Mid & High F ) + Case Study  
-**Rewan Emara:** UI (11 pages + Mid & High F ) + Case Study  
+**Mohamed Hamdy:** UX (IA + User-flow + Competition analysis + Card Sorting) + UI (3 pages dark mode + All English version) + Case Study  
+**Mariam Abdullah:** UI (8 pages + 4 Dark mode + low, mid & High F ) + Case Study  
+**Rewan Emara:** UX (persona & Survey + SWOT analysis + Empathy Map) + UI (11 pages + Mid F + 6 Dark mode ) + Case Study
 
 ---
 
