@@ -1,3 +1,11 @@
+# Team Roles
+
+**Mohamed Hamdy:** UX + UI (4 pages dark mode + All English version) + Case Study  
+**Mariam Abdullah:** UI (8 pages + 4 Dark mode + Mid & High F ) + Case Study  
+**Rewan Emara:** UI (11 pages + Mid & High F ) + Case Study  
+
+---
+
 # MASHRABIA  
 *A Digital Heritage Experience — Where Egyptian Tradition Meets Modern Design*
 
@@ -13,7 +21,7 @@ At its core, MASHRABIA is about **preserving and celebrating living heritage** �
 The **Digital Heritage Gallery** is the heart of MASHRABIA.  
 It showcases **handmade artworks** inspired by Egypt’s diverse cultural and historical influences — from **Khayamiya** patterns and **Nubian motifs** to **modern reinterpretations** of traditional symbols.
 
-Each artwork is paired with:
+Each artwork is paired with:  
 - A brief story about the **artist’s inspiration** and **cultural background**  
 - A reflection of the **visual and emotional connection** to Egyptian tradition  
 - A minimal, elegant layout designed to highlight the artwork’s details and story  
@@ -25,7 +33,7 @@ The gallery’s aesthetic draws from spaces like *Torath* and *Darb 1718*, combi
 ## 🧵 Traditional Crafts Marketplace  
 Beyond art, MASHRABIA extends into the world of **heritage craftsmanship** — showcasing **authentic handmade products** that preserve Egypt’s traditional techniques.  
 
-This section allows users to:
+This section allows users to:  
 - Explore **handcrafted pieces** such as pottery, textiles, and jewelry  
 - Read about the **craftspeople** behind each creation and their heritage  
 - **Purchase or view** select pieces that may also appear as art within the gallery  
@@ -37,7 +45,7 @@ The goal is to create a living connection between **digital art** and **physical
 ## 🍲 (Optional) Heritage Cuisine Extension  
 If time permits, MASHRABIA will expand to include a **culinary experience** — an interactive recipe library that celebrates **traditional Egyptian food** as part of the country’s artistic and cultural expression.
 
-The feature would allow users to:
+The feature would allow users to:  
 - Discover recipes based on **mood** or **available ingredients** (“What’s in my fridge?”)  
 - Learn the **stories and symbolism** behind classic dishes like *Koshary*, *Foul Medames*, and *Mahshi*  
 - Experience how **culinary heritage** can inspire **art and design**  
@@ -57,7 +65,7 @@ Together, they create a **unified digital ecosystem** that celebrates Egyptian h
 ---
 
 ## 🎨 Visual Identity  
-MASHRABIA’s design language draws directly from Egyptian tradition, reinterpreted for a digital interface:
+MASHRABIA’s design language draws directly from Egyptian tradition, reinterpreted for a digital interface:  
 - **Color Palette:** golden yellows, deep blues, and earthy tones  
 - **Typography:** elegant, legible typefaces inspired by Arabic calligraphy and modern sans-serifs  
 - **Motifs:** subtle geometric patterns reminiscent of Mashrabia latticework  
@@ -66,12 +74,12 @@ The interface balances **heritage richness** with **modern simplicity**, ensurin
 
 ---
 
-## 🛠️ Tech & Tools (Concept Phase)
+## 🛠️ Tech & Tools (Concept Phase)  
 > This section will expand as development progresses.  
 
-**Planned stack:**
+**Planned stack:**  
 - UI Design: Figma / Adobe XD  
-- Edit tools: Adobe Photoshop / Adobe Illustrator 
+- Edit tools: Adobe Photoshop / Adobe Illustrator  
 
 ---
 
