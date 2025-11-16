@@ -4,6 +4,8 @@
 **Mariam Abdullah:** UI (8 pages + 4 Dark mode + low, mid & High F ) + Case Study  
 **Rewan Emara:** UX (persona & Survey + SWOT analysis + Empathy Map) + UI (11 pages + Mid F + 6 Dark mode ) + Case Study
 
+**Project Link:** https://www.figma.com/design/y1CrZiyPoqyaEHpr3omNWg/Grad-Project?node-id=0-1&t=2ZRV93S2aTGM5Rhd-1
+
 ---
 
 # MASHRABIA  
