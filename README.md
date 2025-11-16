@@ -44,18 +44,6 @@ The goal is to create a living connection between **digital art** and **physical
 
 ---
 
-## 🍲 (Optional) Heritage Cuisine Extension  
-If time permits, MASHRABIA will expand to include a **culinary experience** — an interactive recipe library that celebrates **traditional Egyptian food** as part of the country’s artistic and cultural expression.
-
-The feature would allow users to:  
-- Discover recipes based on **mood** or **available ingredients** (“What’s in my fridge?”)  
-- Learn the **stories and symbolism** behind classic dishes like *Koshary*, *Foul Medames*, and *Mahshi*  
-- Experience how **culinary heritage** can inspire **art and design**  
-
-This module complements the visual and craft experience but remains **an optional enhancement** depending on project scope and available time.
-
----
-
 ## 💡 Unified Concept  
 All elements of MASHRABIA are designed to coexist harmoniously:  
 - The **Digital Gallery** celebrates artistic reinterpretations of heritage.  
