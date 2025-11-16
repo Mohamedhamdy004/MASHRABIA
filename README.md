@@ -48,7 +48,6 @@ The goal is to create a living connection between **digital art** and **physical
 All elements of MASHRABIA are designed to coexist harmoniously:  
 - The **Digital Gallery** celebrates artistic reinterpretations of heritage.  
 - The **Crafts Marketplace** preserves and promotes traditional craftsmanship.  
-- The **Optional Culinary Section** (if developed) adds a sensory, storytelling dimension that ties food, art, and culture together.  
 
 Together, they create a **unified digital ecosystem** that celebrates Egyptian heritage as something **alive, emotional, and continuously inspiring**.
 
