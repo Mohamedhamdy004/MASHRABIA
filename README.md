@@ -55,7 +55,7 @@ Together, they create a **unified digital ecosystem** that celebrates Egyptian h
 
 ## 🎨 Visual Identity  
 MASHRABIA’s design language draws directly from Egyptian tradition, reinterpreted for a digital interface:  
-- **Color Palette:** golden yellows, deep blues, and earthy tones  
+- **Color Palette:** golden yellows and earthy tones  
 - **Typography:** elegant, legible typefaces inspired by Arabic calligraphy and modern sans-serifs  
 - **Motifs:** subtle geometric patterns reminiscent of Mashrabia latticework  
 
