@@ -6,7 +6,7 @@
 
 **Project Link:** https://www.figma.com/design/y1CrZiyPoqyaEHpr3omNWg/Grad-Project?node-id=0-1&t=2ZRV93S2aTGM5Rhd-1
 **case study drive link:** https://drive.google.com/drive/folders/1VZvYwP88YIUkTZYdOTf3PbD8W2gpWko0?usp=sharing
-*ps.* The big unified case study works only on google chrome while the separate ones work on both microsoft edge and google chrome.
+**ps.** The big unified case study works only on google chrome while the separate ones work on both microsoft edge and google chrome.
 ---
 
 # MASHRABIA  
